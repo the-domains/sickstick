@@ -1,0 +1,14 @@
+layout_spectrum: 1
+typography_spectrum: 0.1808511
+color:
+  saturation: 0.2790063
+  lightness: 0.6865161
+  brandStrength: 0.834268
+  rhythmicContrast: 0.2503339
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: SickStick
